@@ -14,7 +14,6 @@ This project explores customer behavior and pricing trends based on coffee sales
 ## Tools Used
 - Python (Pandas, Matplotlib, Seaborn)
 - Jupyter Notebook / Google Colab
-- Tableau / Power BI (optional)
 - Git & GitHub
 
 ---
